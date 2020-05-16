@@ -23,8 +23,8 @@ Click "Clone or download", unzip files, open in Android Studio and configure vir
 Project is: finished
 
 ## Inspiration
-Project for classes.
+Project for studies.
 Youtube Tutorial and college.
 
 ## Contact
-Created by Emil Grabowski emilgrabowski14@gmail.com
+Created by Emil Grabowski emil.grabowski@interia.pl
